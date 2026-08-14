@@ -2,8 +2,8 @@
 
 Analista de Cloud Júnior com bagagem em Sustentação de Ambientes de Banco de Dados (MySQL e SQL Server)
 
-- 🚀 Atualmente aprofundando em **AWS, Terraform, Serverless e CI/CD** (AWS re/Start).
-- 🎓 Estudante de **Análise e Desenvolvimento de Sistemas** (UNINASSAU - 2026).
+- 🚀 Atualmente aprofundando em **AWS, Terraform, Serverless e CI/CD**.
+- 🎓 Graduado **Análise e Desenvolvimento de Sistemas** (UNINASSAU - 2025).
 - 📜 Certificado **AWS Certified Cloud Practitioner (CLF-C02)** & **Oracle MySQL Implementation Associate**.
 
 ---
